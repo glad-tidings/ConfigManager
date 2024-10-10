@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net481;net48;net47</TargetFrameworks>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Pars Elecom Config Manager</Title>
+    <Authors>gladtidings</Authors>
+    <Company>Pars Elecom</Company>
+    <Description>Config manager component for .Net</Description>
+    <Copyright>Copyright © Pars Elecom</Copyright>
+    <PackageProjectUrl>https://github.com/glad-tidings/ConfigManager</PackageProjectUrl>
+    <PackageReadmeFile></PackageReadmeFile>
+    <RepositoryUrl>https://github.com/glad-tidings/ConfigManager</RepositoryUrl>
+    <PackageTags>Config, Config Manager</PackageTags>
+    <Product>Pars Elecom Config Manager</Product>
+  </PropertyGroup>
+
+</Project>
