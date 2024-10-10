@@ -1,0 +1,1 @@
+# ParsElecom.ConfigManager
