@@ -36,4 +36,4 @@ config.GroupName = "Global";
 config.SetValue("Proxy", "Host", "10.10.10.1");
 ```
 
-![](http://visit.parselecom.com/Api/Visit/26/DE4C8A)
+![](http://visit.parselecom.com/Api/Visit/glad-tidings/ConfigManager/DE4C8A)
